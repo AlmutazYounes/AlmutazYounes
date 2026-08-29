@@ -1,6 +1,6 @@
 # Motaz Younes
 
-Data Scientist and Programming Lead at the NYS Office of Mental Health. Albany, NY.
+Data Scientist at the NYS Office of Mental Health. Albany, NY.
 
 I build production LLM and RAG tools that staff actually use, plus the data processing and flows underneath. Master's in computer science from JUST and data science from MIU. Arabic NLP is in the background.
 
